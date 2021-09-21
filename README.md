@@ -3,13 +3,17 @@
 ## About The Project
 
 By using quotes API, you can create a quote generator. If the quote is longer than 120 characters then the size becomes smaller. If the author is unknown then we use textContent to replace the "null" value to "unknown". You can also tweet about it by pressing the tweet button, which will link to your account in a new window.
+I have added the CSS loader, so if theres a delay in fetching a quote, the quote container will be hidden and the css loader will appear.
 You can use this for your blogs, or simply learn the methods applied.
 
 ## Preview
 
-![New Quote](media/image1.gif)
-![Twitter](media/image2.gif)
+New Quote![New Quote](media/image1.gif)
+Twitter redirect and post:![Twitter](media/image2.gif)
+Mobile Responsive
 ![Responsive](media/image3.gif)
+CSS Loader
+![CSS loader](media/image4.gif)
 
 ## Built With
 
@@ -17,6 +21,7 @@ You should be familiar with JavaScript basics. But I have linked some resources.
 
 1. [Node.textContent](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent)
 2. [try/catch method](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent)
+3. [hidden element](https://www.w3schools.com/tags/att_hidden.asp)
 
 ## Installation
 
