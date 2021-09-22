@@ -1,4 +1,4 @@
-# A quote generator
+# A quote generator with Twitter integration.
 
 ## About The Project
 
